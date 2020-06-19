@@ -12,14 +12,14 @@ port = " "
 output = " "
 
 def logo():
- 
-print("        ____        _____     _______"
-print("      |$$$$\  /$$$$$\  $$$$$$$"
-print("      |$      $| |$         $|       $|"
-print("      |$$$$/  |$$$$$$|       $|"
-print("      |$  $\    |$          $|       $|"
-print("      |$   $\   |$          $|       $|"
-print("""
+ print("""
+\t  ____    _____  _______
+\t |$$$$\  /$$$$$\ $$$$$$$
+\t |$      $| |$   $|    $|
+\t |$$$$/ |$$$$$|    $|
+\t |$  $\  |$   $|    $|
+\t |$   $\  |$   $|    $|
+
 \t [*] Versions : 1.0.0
 \t [*] Coded By Shellstar(tejas)
 \t [*] LinterexEvil Community
